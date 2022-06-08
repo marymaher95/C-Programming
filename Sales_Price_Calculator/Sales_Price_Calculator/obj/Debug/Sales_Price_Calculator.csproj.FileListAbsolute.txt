@@ -1,0 +1,20 @@
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.exe.config
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.exe
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.pdb
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csprojAssemblyReference.cache
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.MainForm.resources
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.Properties.Resources.resources
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csproj.GenerateResource.cache
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.exe
+C:\Users\marym\OneDrive\Documents\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.pdb
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.exe.config
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.exe
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\bin\Debug\Sales_Price_Calculator.pdb
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csprojAssemblyReference.cache
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.MainForm.resources
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.Properties.Resources.resources
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csproj.GenerateResource.cache
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.exe
+C:\Users\marym\OneDrive - National University of Ireland, Galway\Business Applications Programming\Visual Studios\Sales_Price_Calculator\Sales_Price_Calculator\obj\Debug\Sales_Price_Calculator.pdb
